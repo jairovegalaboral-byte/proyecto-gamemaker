@@ -4,11 +4,3 @@ propuesto por la profesora marcela tatata
 y que en su futuro tratara de seguirse 
 
 
-
-
-holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-
-
-
-todo bieeeen
