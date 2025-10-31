@@ -9,5 +9,10 @@ else{
 }
 alarm[0] = 60;
 
-
- 
+var _per = keyboard_check(ord ("R"))
+ if (not keyboard_check_pressed(_per)){
+    room_restart()
+    
+}else if(keyboard_check_pressed(_per)){
+    
+} 
